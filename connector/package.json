@@ -30,7 +30,7 @@
   "dependencies": {
     "@aragon/connect-core": "^0.6.0",
     "@aragon/connect-thegraph": "^0.6.0",
-    "graphql-tag": "^2.10.3"
+    "graphql-tag": "^2.12.6"
   },
   "description": "Access organizations and interact with Convcition Voting apps.",
   "keywords": [
